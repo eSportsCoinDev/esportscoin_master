@@ -15,7 +15,7 @@ RPC Port | 25879
 
 </td><td>
 
-From | To | Rewards | Masternode | Staker | Treasury
+From | To | Rewards | MN | Staker | Treasury
 ---: | ---: | ---: | ---: | ---: | ---:
 1         | 1         | 2,000,000   | 0%  | 0%  | 0%
 2         | 5,000     | 1     | 70% | 30% | 0%
